@@ -4,6 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <packaging>pom</packaging>
+    <modules>
+        <module>moduleB</module>
+    </modules>
+
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -15,7 +19,7 @@
     <groupId>com.mariyazlateva</groupId>
     <artifactId>software-tools-university</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>software-tools-university</name>
+    <name>moduleA</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
