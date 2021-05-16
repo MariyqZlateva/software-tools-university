@@ -19,6 +19,11 @@
     <dependencies>
         <dependency>
             <groupId>com.mariyazlateva</groupId>
+            <artifactId>moduleB</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.mariyazlateva</groupId>
             <artifactId>moduleC</artifactId>
             <version>${project.version}</version>
         </dependency>
