@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>moduleB</module>
+        <module>moduleC</module>
     </modules>
 
 
