@@ -4,9 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <packaging>pom</packaging>
+
     <modules>
         <module>moduleB</module>
         <module>moduleC</module>
+        <module>moduleD</module>
     </modules>
 
 
@@ -32,7 +34,7 @@
     <dependencies>
         <dependency>
             <groupId>com.mariyazlateva</groupId>
-            <artifactId>moduleB</artifactId>
+            <artifactId>moduleC</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
