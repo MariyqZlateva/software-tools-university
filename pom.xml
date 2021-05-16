@@ -15,7 +15,7 @@
     <groupId>com.mariyazlateva</groupId>
     <artifactId>software-tools-university</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>moduleA</name>
+    <name>software-tools-university</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
