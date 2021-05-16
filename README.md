@@ -5,6 +5,9 @@ University task <br>
 Deployed to Heroku using Heroku CLI <br>
 at  https://desolate-reaches-84090.herokuapp.com/  <br>
 
+and with git connection <br>
+https://software-tools-university.herokuapp.com/
+
 Used commands and example from <br>
 https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku <br>
 
