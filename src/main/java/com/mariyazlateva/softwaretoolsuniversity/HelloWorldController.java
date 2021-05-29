@@ -10,7 +10,7 @@ public class HelloWorldController {
 
     @GetMapping
     public String getHelloWorldMessage() {
-        return "Hello World Updated Again!";
+        return "Hello World Updated!";
     }
 
 }
